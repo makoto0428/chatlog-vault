@@ -25,9 +25,13 @@ It allows you to store, organize, and restructure conversations from ChatGPT and
 
 ChatLogVault supports multiple ways to import chat logs:
 
+MVP:
 - Upload JSON files exported from AI chat services
+
+Future:
 - Send chat logs via API
 - Use a Tampermonkey userscript to send ChatGPT conversations directly to ChatLogVault
+
 
 ### Tampermonkey Integration
 
